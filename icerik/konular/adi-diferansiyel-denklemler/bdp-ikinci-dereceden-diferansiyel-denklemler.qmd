@@ -115,7 +115,7 @@ Analitik çözüm: $x(t) = Ae^{-\sigma t}e^{i\omega t}+ Be^{-\sigma t}e^{-i \ome
 
 ### Problem 4 {#sec-problem4}
 
-Düşey düzlemde $m=1$ kg kütleli bir cisim salınsın. Bu cisim denge noktasından $\theta_{0}=\pi/9$ rad açı ile harekete başlıyor. Cisim bırakıldığı anda açısal hızı $\omega_{0}=$ rad/s. Bu cismin hareket denklemini $t=0-10$ arasında Euler yöntemiyle çözünüz. En uygun sonuç için $n=10000$ adım alınız. ($g=9.81$)
+Düşey düzlemde $m=1$ kg kütleli bir cisim salınsın. Bu cisim denge noktasından $\theta_{0}=\pi/9$ rad açı ile harekete başlıyor. Cisim bırakıldığı anda açısal hızı $\omega_{0}=$ 1/137 rad/s. Bu cismin hareket denklemini $t=0-10$ arasında Euler yöntemiyle çözünüz. En uygun sonuç için $n=10000$ adım alınız. ($g=9.81$)
 
 $$
 \frac{d^{2}\theta}{dt^{2}}=-\frac{g}{l}\sin \theta
