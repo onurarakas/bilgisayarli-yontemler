@@ -121,7 +121,7 @@ $$
 \frac{d^{2}\theta}{dt^{2}}=-\frac{g}{l}\sin \theta
 $$
 
-Analitik çözüm: $x(t) = A\cos(\sqrt{g/l}x)+B\sin(\sqrt{g/l}x)$
+Analitik çözüm: $theta(t) = A\cos(\sqrt{g/l}t)+B\sin(\sqrt{g/l}t)$
 
 ### Problem 5
 
